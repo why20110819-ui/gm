@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-adsense-account" content="ca-pub-2000052945620127">
+<title>隱私權政策與關於本站 | 匿名光中GMJH</title>
+<meta name="description" content="匿名光中GMJH 投稿系統的隱私權政策、Cookie 與廣告說明、關於本站及聯絡方式。">
+<style>
+  :root { --bg:#f1f5f9; --card:#ffffff; --text:#1e293b; --muted:#475569; --line:#e2e8f0; --accent:#2563eb; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0f172a; --card:#1e293b; --text:#e2e8f0; --muted:#94a3b8; --line:#334155; --accent:#60a5fa; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); line-height:1.8;
+         font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:24px 16px 64px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:20px; padding:24px 22px; margin-bottom:16px; }
+  h1 { font-size:1.5rem; margin:0 0 6px; }
+  h2 { font-size:1.1rem; margin:0 0 8px; color:var(--accent); }
+  p, li { font-size:.95rem; color:var(--muted); margin:6px 0; }
+  ul { padding-left:20px; margin:6px 0; }
+  a { color:var(--accent); word-break:break-all; }
+  .back { display:inline-block; margin-bottom:14px; font-size:.9rem; text-decoration:none; }
+  .meta { font-size:.8rem; color:var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <a class="back" href="/">← 返回投稿頁面</a>
+
+  <div class="card">
+    <h1>隱私權政策與關於本站</h1>
+    <p class="meta">匿名光中GMJH 投稿系統 · 最後更新：2026 年 11 月 2 日</p>
+  </div>
+
+  <div class="card" id="about">
+    <h2>關於本站</h2>
+    <p>匿名光中GMJH 是由學生自行維護的匿名投稿平台，讓同學在不公開身分的情況下，寫下想說的話。投稿內容經管理員審核後，可能會發布在本站相關的 Instagram 帳號。</p>
+    <p>本站不代表任何學校立場，所有貼文皆不代表本站意見。請尊重他人，勿發表公然侮辱、誹謗、恐嚇或其他違法內容。</p>
+  </div>
+
+  <div class="card" id="contact">
+    <h2>聯絡方式</h2>
+    <p>如需刪除貼文、檢舉內容、詢問個人資料，或任何與本站有關的問題，請私訊 Instagram：<strong>@cyam_tw</strong>。</p>
+    <p>若學校或司法機關依法需要聯繫，也請透過上述管道。</p>
+  </div>
+
+  <div class="card">
+    <h2>1. 我們蒐集哪些資料</h2>
+    <ul>
+      <li><strong>投稿內容：</strong>你在表單中輸入的文字。</li>
+      <li><strong>連線資訊：</strong>投稿時，伺服器會自動記錄你的 IP 位址、瀏覽器與裝置資訊（User-Agent）及投稿時間。</li>
+      <li><strong>瀏覽統計：</strong>為了計算瀏覽次數，以及判斷是否短時間內重複整理頁面，伺服器會把你的 IP 位址加上隨機字串後轉成不可還原的雜湊值暫時保存，不會直接保存原始 IP。</li>
+    </ul>
+    <p>本站不要求你提供姓名、學號、班級、電子郵件或電話，也沒有帳號登入功能。</p>
+  </div>
+
+  <div class="card">
+    <h2>2. 資料的使用目的</h2>
+    <ul>
+      <li>接收、審核與發布投稿。</li>
+      <li>防止洗版、攻擊網站、惡意造謠、誹謗或恐嚇等濫用行為。</li>
+      <li>統計網站瀏覽次數，並在偵測到異常大量整理頁面時暫停顯示廣告。</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>3. 匿名性與 IP 紀錄</h2>
+    <p>前台與公開發布的內容不會顯示你的 IP 位址或任何可辨識身分的資訊。IP 紀錄只供管理員在後台處理違規與法律事務時查閱，我們不會主動對外公開。</p>
+    <p>若投稿內容涉嫌觸犯《刑法》第 309 條（公然侮辱）、第 310 條（誹謗）或其他法律，本站會在收到檢警機關或學校的合法調取文件後，依法提供 IP 位址協助調查。</p>
+  </div>
+
+  <div class="card">
+    <h2>4. 資料保存期間</h2>
+    <p>投稿及其連線紀錄最長保存約一年，超過期限後會由系統清除。管理員刪除貼文後，公開內容即不再顯示，但相關紀錄可能仍會依上述期限保留，以便處理爭議。</p>
+  </div>
+
+  <div class="card" id="ads">
+    <h2>5. Cookie 與 Google 廣告</h2>
+    <p>本站自身不使用 Cookie 追蹤訪客。但本站可能顯示由 <strong>Google AdSense</strong> 提供的廣告，Google 等第三方廣告供應商會使用 Cookie，根據你先前造訪本站或其他網站的紀錄來投放廣告。</p>
+    <ul>
+      <li>Google 使用廣告 Cookie，讓 Google 及其合作夥伴能根據你造訪本站和／或網際網路上其他網站的紀錄，向你放送廣告。</li>
+      <li>你可以到 <a href="https://adssettings.google.com" target="_blank" rel="noopener">Google 廣告設定</a>，選擇停用個人化廣告。</li>
+      <li>你也可以造訪 <a href="https://www.aboutads.info" target="_blank" rel="noopener">www.aboutads.info</a>，停用第三方供應商的個人化廣告 Cookie。</li>
+      <li>了解 Google 如何使用合作網站的資料：<a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">policies.google.com/technologies/partner-sites</a></li>
+    </ul>
+    <p>你也可以隨時在瀏覽器設定中封鎖或刪除 Cookie，但部分網站功能可能因此受影響。</p>
+  </div>
+
+  <div class="card">
+    <h2>6. 使用的第三方服務</h2>
+    <ul>
+      <li><strong>Vercel：</strong>網站的託管與執行環境。</li>
+      <li><strong>GitHub：</strong>投稿與系統資料儲存於非公開的資料庫中。</li>
+      <li><strong>Instagram（Meta）：</strong>經審核的投稿內容可能製作成圖片後發布，圖片發布過程中會暫時存放於 Vercel Blob，發布完成後即刪除。</li>
+      <li><strong>Google AdSense：</strong>廣告投放，詳見上一節。</li>
+    </ul>
+    <p>這些服務各有自己的隱私權政策，本站無法控制其內容。</p>
+  </div>
+
+  <div class="card">
+    <h2>7. 你的權利</h2>
+    <p>依《個人資料保護法》，你可以請求查詢、閱覽、複製、補充、更正、停止使用或刪除與你有關的個人資料。請透過上方的聯絡方式提出，並提供足以讓我們找到相關投稿的資訊（例如投稿編號或識別碼）。</p>
+  </div>
+
+  <div class="card">
+    <h2>8. 未成年使用者</h2>
+    <p>本站使用者多為學生。若你未滿 18 歲，建議在家長或監護人的了解下使用本站，並請避免在投稿中寫出自己或他人的真實姓名、電話、住址等個人資料。</p>
+  </div>
+
+  <div class="card">
+    <h2>9. 政策更新</h2>
+    <p>本政策若有修改，會直接更新於此頁面並更改上方的「最後更新」日期。繼續使用本站，即表示你同意最新版本的內容。</p>
+  </div>
+</main>
+</body>
+</html>
