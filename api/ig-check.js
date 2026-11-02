@@ -34,7 +34,8 @@ module.exports = async (req, res) => {
     const show = e => `code ${e.code ?? '?'}${e.error_subcode ? '/' + e.error_subcode : ''}：${e.message}${e.fbtrace_id ? ' (trace ' + e.fbtrace_id + ')' : ''}`;
 
     // 1. 讀取帳號資料（只需要讀取權限）
-    const acc = await get(`/${userId}`, { fields: 'username,account_type,media_count' });
+    // account_type 只有「Instagram 登入」(IGAA…)才有；Facebook 登入(EAA…)查這個欄位會回 code 100
+    const acc = await get(`/${userId}`, { fields: token.startsWith('IG') ? 'username,account_type,media_count' : 'username,media_count' });
     if (acc.error) lines.push('❌ 讀取帳號資料失敗 → ' + show(acc.error));
     else lines.push(`✅ 讀取帳號資料成功：@${acc.username || '?'}（${acc.account_type || '類型未知'}，已發 ${acc.media_count ?? '?'} 則）`);
 
