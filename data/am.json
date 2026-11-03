@@ -1,3 +1,10 @@
 {
-  "counter": 49
+  "counter": 49,
+  "pageViews": 1,
+  "recent": {
+    "32aaa78beee9db95c5c862897b195a0f": [
+      1793700794727
+    ]
+  },
+  "blocked": {}
 }
