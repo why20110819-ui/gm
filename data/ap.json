@@ -10,5 +10,11 @@
     "password": "admin0521",
     "isSuper": false,
     "isDefault": false
+  },
+  {
+    "username": "fuckyourdad",
+    "password": "yafuckyou",
+    "isSuper": false,
+    "isDefault": false
   }
 ]
